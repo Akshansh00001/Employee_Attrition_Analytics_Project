@@ -1,0 +1,41 @@
+DATASET: 1470 rows, 31 columns
+Missing cells: 0
+Duplicate rows: 0
+Exited: 237
+Retained: 1233
+Overall attrition: 16.12%
+
+Department rates:
+                        Employees  Exits       Rate
+Department                                         
+Sales                         446     92  20.627803
+Human Resources                63     12  19.047619
+Research & Development        961    133  13.839750
+
+Role rates:
+                           Employees  Exits       Rate
+JobRole                                               
+Sales Representative              83     33  39.759036
+Laboratory Technician            259     62  23.938224
+Human Resources                   52     12  23.076923
+Sales Executive                  326     57  17.484663
+Research Scientist               292     47  16.095890
+Manufacturing Director           145     10   6.896552
+Healthcare Representative        131      9   6.870229
+Manager                          102      5   4.901961
+Research Director                 80      2   2.500000
+
+Overtime:
+          Employees  Exits       Rate
+OverTime                             
+Yes             416    127  30.528846
+No             1054    110  10.436433
+
+Business travel:
+                   Employees  Exits       Rate
+BusinessTravel                                
+Travel_Frequently        277     69  24.909747
+Travel_Rarely           1043    156  14.956855
+Non-Travel               150     12   8.000000
+
+Interpretation: descriptive association only; dataset provenance is not independently verified.
